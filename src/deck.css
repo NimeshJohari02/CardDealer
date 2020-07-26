@@ -1,0 +1,17 @@
+.Card-Area{
+    margin-top: 80px;
+}
+
+.Controller{
+    justify-content: center;
+    text-align: center;
+}
+
+.CardBtn:active
+{
+    font-size: 20px;
+}
+.CardBtn:hover
+{
+    background-color: teal;
+}
